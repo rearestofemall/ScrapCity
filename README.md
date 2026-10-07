@@ -24,7 +24,7 @@ Explore the streets, overcome challenging obstacles, discover hidden areas, and 
 Clone the repository:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/rearestofemall/ScrapCity
 ```
 
 Open the project folder and launch `index.html` in your browser.
@@ -56,4 +56,4 @@ Scrap City was developed with the help of AI tools, with the project direction, 
 
 ## 📜 License
 
-This project is currently not licensed for redistribution or commercial use without permission.
+This project is currently licensed under he MIT License
