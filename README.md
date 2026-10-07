@@ -36,8 +36,8 @@ For the best experience, you can also run it through a local web server.
 Coming soon.
 
 ## 📸 Screenshots
+<img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/a29cc990-a0f3-41b1-a8ed-c47b879084c6" />
 
-Add screenshots of the game here.
 
 ## 📁 Project Structure
 
@@ -52,7 +52,7 @@ Scrap-City/
 
 ## 🤖 Development
 
-Scrap City was developed with the help of AI tools, with the project direction, design decisions, testing, and development handled throughout the process.
+Scrap City was developed with the help of AI tools, with the project direction, design decisions, testing, and development handled throughout the process. Built completely free with the help of Freebuff
 
 ## 📜 License
 
